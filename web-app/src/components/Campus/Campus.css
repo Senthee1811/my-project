@@ -13,3 +13,8 @@
     width: 23%;
     border-radius:40px; 
 }
+.btn.dark-btn{
+    background: #212EA0;
+    color:#fff;
+    
+}
