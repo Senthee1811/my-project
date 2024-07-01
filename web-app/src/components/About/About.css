@@ -7,6 +7,7 @@
 }
 .about-left{
     flex-basis: 40%;
+    position: relative;
 }
 .about-right{
     flex-basis: 56%;
@@ -14,4 +15,11 @@
 .about-img{
     width: 100%;
     border-radius: 10px;
+}
+.play-icon{
+    width: 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,-50%) ;
 }
